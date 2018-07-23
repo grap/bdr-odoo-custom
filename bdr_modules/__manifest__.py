@@ -15,13 +15,28 @@
         # Odoo SA Modules
         'purchase',
         'sale',
-        # OCA - Server Tools
+        # OCA - account-fiscal-rule
+        'account_product_fiscal_classification',
+        # OCA - account-invoicing
+        'account_invoice_supplierinfo_update',
+        'account_invoice_pricelist',
+        'account_invoice_pricelist_sale',
+        # OCA - l10n-france
+        'l10n_fr_state',
+        'l10n_fr_department',
+        # OCA - product-attribute
+        'product_variant_supplierinfo',
+        # OCA - purchase-workflow
+        'product_supplierinfo_discount',
+        'purchase_discount',
+        # OCA - server-tools
         'auth_admin_passkey',
         'admin_technical_features',
         'disable_odoo_online',
         'mass_editing',
         'mass_sorting',
-        # OCA - Web
+        # OCA - web
+        'web_dashboard_tile',
         'web_export_view',
         'web_no_bubble',
         'web_searchbar_full_width',

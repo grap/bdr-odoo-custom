@@ -1,3 +1,7 @@
+account-fiscal-rule
+account-invoicing
+l10n-france
 product-attribute
+purchase-workflow
 server-tools
 web
