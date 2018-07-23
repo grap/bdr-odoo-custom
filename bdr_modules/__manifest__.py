@@ -28,6 +28,8 @@
         'l10n_fr_department',
         # OCA - product-attribute
         'product_variant_supplierinfo',
+        # OCA - product-variant
+        'product_variant_supplierinfo',
         # OCA - purchase-workflow
         'product_supplierinfo_discount',
         'purchase_discount',
@@ -45,6 +47,6 @@
         'web_sheet_full_width',
         'web_widget_float_formula',
     ],
-    'installable': False,
-    'auto_install': True,
+    'installable': True,
+    'auto_install': False,
 }
