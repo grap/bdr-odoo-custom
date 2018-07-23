@@ -12,10 +12,21 @@
     'website': 'http://www.grap.coop',
     'license': 'AGPL-3',
     'depends': [
+        # Odoo SA Modules
         'purchase',
         'sale',
-    ],
-    'data': [
+        # OCA - Server Tools
+        'auth_admin_passkey',
+        'admin_technical_features',
+        'disable_odoo_online',
+        'mass_editing',
+        'mass_sorting',
+        # OCA - Web
+        'web_export_view',
+        'web_no_bubble',
+        'web_searchbar_full_width',
+        'web_sheet_full_width',
+        'web_widget_float_formula',
     ],
     'installable': False,
     'auto_install': True,
