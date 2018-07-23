@@ -13,6 +13,7 @@
     'license': 'AGPL-3',
     'depends': [
         # Odoo SA Modules
+        'l10n_fr',
         'l10n_fr_fec',
         'purchase',
         'sale',
@@ -26,8 +27,6 @@
         'l10n_fr_siret',
         'l10n_fr_state',
         'l10n_fr_department',
-        # OCA - product-attribute
-        'product_variant_supplierinfo',
         # OCA - product-variant
         'product_variant_supplierinfo',
         # OCA - purchase-workflow
@@ -35,12 +34,10 @@
         'purchase_discount',
         # OCA - server-tools
         'auth_admin_passkey',
-        'admin_technical_features',
         'disable_odoo_online',
         'mass_editing',
         'mass_sorting',
         # OCA - web
-        'web_dashboard_tile',
         'web_export_view',
         'web_no_bubble',
         'web_searchbar_full_width',

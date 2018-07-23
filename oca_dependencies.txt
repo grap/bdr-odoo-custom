@@ -1,7 +1,6 @@
 account-fiscal-rule
 account-invoicing
 l10n-france
-product-attribute
 product-variant
 purchase-workflow
 server-tools
