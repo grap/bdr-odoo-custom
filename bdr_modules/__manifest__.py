@@ -13,6 +13,7 @@
     'license': 'AGPL-3',
     'depends': [
         # Odoo SA Modules
+        'l10n_fr_fec',
         'purchase',
         'sale',
         # OCA - account-fiscal-rule
@@ -22,6 +23,7 @@
         'account_invoice_pricelist',
         'account_invoice_pricelist_sale',
         # OCA - l10n-france
+        'l10n_fr_siret',
         'l10n_fr_state',
         'l10n_fr_department',
         # OCA - product-attribute
